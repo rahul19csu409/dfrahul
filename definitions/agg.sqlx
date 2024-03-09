@@ -1,0 +1,10 @@
+config {
+    type: "table",
+    description: "this is the aggregation table"
+}
+
+SELECT
+  SUM(number)
+FROM
+  ${ref("src")} AS totalsum
+

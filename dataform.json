@@ -1,8 +1,7 @@
 {
-  "defaultSchema": "dataform",
-  "assertionSchema": "dataform_assertions",
+  "defaultSchema": "dataformrahul",
+  "assertionSchema": "dataform_assertion_Rahul",
   "warehouse": "bigquery",
   "defaultDatabase": "angelic-triumph-414807",
   "defaultLocation": "US"
 }
-    
